@@ -55,7 +55,7 @@ The primary objectives of this work were to:
 
 ### Electromagnetic Simulation
 
-* **ANSYS HFSS (High Frequency Structure Simulator)**
+* **ANSYS HFSS Software (High Frequency Structure Simulator)**
 
 ### Antenna Design
 
