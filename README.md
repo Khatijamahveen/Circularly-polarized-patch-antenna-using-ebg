@@ -138,8 +138,8 @@ The final design demonstrated strong agreement between simulation and experiment
 
 ### Additional Results
 
-* **Bandwidth:** 180 MHz
-* **EBG Reflection Phase Bandwidth:** 390 MHz
+* **Bandwidth:** 180 MHz.
+* **EBG Reflection Phase Bandwidth:** 390 MHz.
 * **Radiation Efficiency:** Improved from approximately **38% to 61%** with EBG integration.
 * **Simulation–Measurement Correlation:** Experimental measurements showed close agreement with the simulated response.
 
